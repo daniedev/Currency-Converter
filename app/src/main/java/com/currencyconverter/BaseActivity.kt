@@ -1,0 +1,9 @@
+package com.currencyconverter
+
+import androidx.appcompat.app.AppCompatActivity
+
+open class BaseActivity : AppCompatActivity() {
+
+
+
+}
